@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Focus</string>
+
+    <string name="focusprompt_text">What's your focus today?</string>
+    <string name="savebutton">Get Focused</string>
+    <string name="action_settings">Settings</string>
+</resources>
